@@ -135,8 +135,12 @@ input[type=checkbox] {
 }
 
 /* news context */
-.n-title h1, .n-title h2, .n-title h3, .n-title p {
+.n-title h2, .n-title h3, .n-title p {
   display: inline-block;
+}
+
+.n-title h3 {
+  text-align: right;
 }
 
 @media (max-width: 400px) {
