@@ -133,3 +133,8 @@ input[type=checkbox] {
 .footing a {
   color: blue;
 }
+
+/* news context */
+.n-title h1, .n-title h2, .n-title h3, .n-title p {
+  display: inline-block;
+}
