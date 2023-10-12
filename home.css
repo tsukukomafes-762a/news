@@ -139,17 +139,17 @@ input[type=checkbox] {
   padding: 4px;
 }
 
-.n-title h2, .n-title h3, .n-title p {
+.n-title h2, .n-title p {
   display: inline-block;
   color: teal;
 }
 
-.n-title h3 {
+.n-title div {
   text-align: right;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 465px) {
   .n-title h1 {
-    font-size: 7.3vw;
+    font-size: 6.9vw;
   }
 }
