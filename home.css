@@ -138,3 +138,9 @@ input[type=checkbox] {
 .n-title h1, .n-title h2, .n-title h3, .n-title p {
   display: inline-block;
 }
+
+@media (max-width: 400px) {
+  .n-title h1 {
+    font-size: 8vw;
+  }
+}
