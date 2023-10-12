@@ -121,7 +121,8 @@ input[type=checkbox] {
 
 .footing {
   background-color: teal;
-  display: fixed;
+  position: sticky;
+  top: 100vh;
   bottom: 0;
 }
 
