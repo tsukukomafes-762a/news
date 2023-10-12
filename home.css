@@ -119,19 +119,19 @@ input[type=checkbox] {
   }
 }
 
-.footing {
+#footing {
   background-color: teal;
   position: sticky;
   top: 100vh;
   bottom: 0;
 }
 
-.footing p {
+#footing p {
   display: inline-block;
   color: white;
 }
 
-.footing a {
+#footing a {
   color: blue;
 }
 
