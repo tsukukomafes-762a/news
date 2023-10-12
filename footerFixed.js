@@ -7,7 +7,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 new function(){
 	
-	var footerId = "footer";
+	var footerId = "footing";
 	//メイン
 	function footerFixed(){
 		//ドキュメントの高さ
