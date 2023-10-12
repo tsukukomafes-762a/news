@@ -139,6 +139,10 @@ input[type=checkbox] {
   padding: 4px;
 }
 
+.n-title {
+  border-bottom-style: solid;
+}
+
 .n-title h2, .n-title p {
   display: inline-block;
   color: teal;
